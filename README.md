@@ -1,5 +1,7 @@
 # Command Line hands on
 
+![Alt text](./linux.svg?raw=true,"View")
+
 ## Usage
 Note: Hold option (`alt`) and click a position in the current line to move your cursor to that position. 
 
