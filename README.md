@@ -3,52 +3,54 @@
 ![Alt text](./linux.svg?raw=true,"View")
 
 ## Usage
-Note: Hold option (`alt`) and click a position in the current line to move your cursor to that position. 
+<ul>
+  <li>Clear history: `ctrl + l`</li>
 
-Clear history: `ctrl + l`
+<li>Clear everything left from current cursor position: `ctrl + u`</li>
 
-Clear everything left from current cursor position: `ctrl + u`
+<li>Clear everything right from current cursor position: `ctrl + k`</li>
 
-Clear everything right from current cursor position: `ctrl + k`
+<li>Re-call last input with sudo: `sudo !!`</li>
 
-Re-call last input with sudo: `sudo !!`
+<li>Stop current process: `ctrl + c`</li>
 
-Stop current process: `ctrl + c`
+<li>Jump to left: `ctrl + a`</li>
 
-Jump to left: `ctrl + a`
+<li>Jump to right: `ctrl + e`</li>
 
-Jump to right: `ctrl + e`
+<li>Help: `help cd` / `help dir` (...)</li>
 
-Help: `help cd` / `help dir` (...)
+<li>Finding Help: `apropos directory` / `apropos search` (...)</li>
 
-Finding Help: `apropos directory` / `apropos search` (...)
+<li>Define custom startup screen: `sudo nano /etc/motd`</li>
 
-Define custom startup screen: `sudo nano /etc/motd`
+<li>Run a script as background process: `python script.py &`</li>
 
-Run a script as background process: `python script.py &`
+<li>List all running process's: `ps aux`</li>
 
-List all running process's: `ps aux`
-
-Kill a running process: `sudo kill 12345`
+<li>Kill a running process: `sudo kill 12345`<li>
+</ul>
 
 ## System
-Get the current path: `pwd`
+<ul>
+<li>Get the current path: `pwd`<li>
 
-Copy to clipboard: `pwd | pbcopy`
+<li>Copy to clipboard: `pwd | pbcopy`<li>
 
-Paste: `pbpaste`
+<li>Paste: `pbpaste`<li>
 
-Get the current hostname: `hostname`
+<li>Get the current hostname: `hostname`<li>
 
-Get the current users: `users`
+<li>Get the current users: `users`<li>
 
-Get all info about the environment: `env`
+<li>Get all info about the environment: `env`<li>
 
-Show calendar: `cal`
+<li>Show calendar: `cal`<li>
 
-Show today's date: `date`
+<li>Show today's date: `date`<li>
 
-Exit terminal: `exit`
+<li>Exit terminal: `exit`<li>
+</ul>
 
 ## Permissions
 Use `-R` option to change permissions recursively.
