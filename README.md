@@ -4,31 +4,31 @@
 
 ## Usage
 <ul>
- <li>Clear history: `ctrl + l`</li>
+ <li>Clear history: <b>`ctrl + l`</b></li>
 
-<li>Clear everything left from current cursor position: `ctrl + u`</li>
+<li>Clear everything left from current cursor position: <b>`ctrl + u`</b></li>
 
-<li>Clear everything right from current cursor position: `ctrl + k`</li>
+<li>Clear everything right from current cursor position: <b>`ctrl + k`</b></li>
 
-<li>Re-call last input with sudo: `sudo !!`</li>
+<li>Re-call last input with sudo: <b>`sudo !!`</b></li>
 
-<li>Stop current process: `ctrl + c`</li>
+<li>Stop current process: <b>`ctrl + c`</b></li>
 
-<li>Jump to left: `ctrl + a`</li>
+<li>Jump to left: <b>`ctrl + a`</b></li>
 
-<li>Jump to right: `ctrl + e`</li>
+<li>Jump to right: <b>`ctrl + e`</b></li>
 
-<li>Help: `help cd` / `help dir` (...)</li>
+<li>Help: <b>`help cd` / `help dir`</b> (...)</li>
 
-<li>Finding Help: `apropos directory` / `apropos search` (...)</li>
+<li>Finding Help: <b>`apropos directory` / `apropos search`</b> (...)</li>
 
-<li>Define custom startup screen: `sudo nano /etc/motd`</li>
+<li>Define custom startup screen: <b>`sudo nano /etc/motd`</b></li>
 
-<li>Run a script as background process: `python script.py &`</li>
+<li>Run a script as background process: <b>`python script.py &`</b></li>
 
-<li>List all running process's: `ps aux`</li>
+<li>List all running process's: <b>`ps aux`</b></li>
 
-<li>Kill a running process: `sudo kill 12345`</li>
+<li>Kill a running process: <b>`sudo kill 12345`</b></li>
 </ul>
 
 ## System
