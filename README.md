@@ -61,9 +61,9 @@
 
 <li>Change permissions: <b>`chmod 755 index.php`</b></li>
 
-<li>Change owner: <b>`chown root index.php` (`root` is the username)</b></li>
+<li>Change owner: <b>`chown root index.php`</b> (`root` is the username)</li>
 
-<li>Change group: <b>`chgrp www-data index.php` (`www-data` is the groupname)</b></li>
+<li>Change group: <b>`chgrp www-data index.php`</b> (`www-data` is the groupname)</li>
 </ul>
 
 ### WordPress Files/Folder Permissions
