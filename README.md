@@ -54,15 +54,17 @@
 
 ## Permissions
 
-Use `-R` option to change permissions recursively.
+<ul>
+ <li>Use <b>`-R`</b> option to change permissions recursively.</li>
 
-List: `ps -ef | grep apache | grep -v grep`
+<li>List: <b>`ps -ef | grep apache | grep -v grep`</b></li>
 
-Change permissions: `chmod 755 index.php`
+<li>Change permissions: <b>`chmod 755 index.php`</b></li>
 
-Change owner: `chown root index.php` (`root` is the username)
+<li>Change owner: <b>`chown root index.php` (`root` is the username)</b></li>
 
-Change group: `chgrp www-data index.php` (`www-data` is the groupname)
+<li>Change group: <b>`chgrp www-data index.php` (`www-data` is the groupname)</b></li>
+</ul>
 
 ### WordPress Files/Folder Permissions
 Let apache be owner: `chown www-data:www-data -R *`
