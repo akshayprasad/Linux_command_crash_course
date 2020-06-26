@@ -33,23 +33,23 @@
 
 ## System
 <ul>
-<li>Get the current path: `pwd`</li>
+<li>Get the current path: <b>`pwd`</b></li>
 
-<li>Copy to clipboard: `pwd | pbcopy`</li>
+<li>Copy to clipboard: <b>`pwd | pbcopy`</b></li>
 
-<li>Paste: `pbpaste`</li>
+<li>Paste: <b>`pbpaste`</b></li>
 
-<li>Get the current hostname: `hostname`</li>
+<li>Get the current hostname: <b>`hostname`</b></li>
 
-<li>Get the current users: `users`</li>
+<li>Get the current users: <b>`users`</b></li>
 
-<li>Get all info about the environment: `env`</li>
+<li>Get all info about the environment: <b>`env`</b></li>
 
-<li>Show calendar: `cal`</li>
+<li>Show calendar: <b>`cal`</b></li>
 
-<li>Show today's date: `date`</li>
+<li>Show today's date: <b>`date`</b></li>
 
-<li>Exit terminal: `exit`</li>
+<li>Exit terminal: <b>`exit`</b></li>
 </ul>
 
 ## Permissions
