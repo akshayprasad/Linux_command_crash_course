@@ -4,7 +4,7 @@
 
 ## Usage
 <ul>
-  <li>Clear history: `ctrl + l`</li>
+ <li>Clear history: `ctrl + l`</li>
 
 <li>Clear everything left from current cursor position: `ctrl + u`</li>
 
@@ -28,31 +28,32 @@
 
 <li>List all running process's: `ps aux`</li>
 
-<li>Kill a running process: `sudo kill 12345`<li>
+<li>Kill a running process: `sudo kill 12345`</li>
 </ul>
 
 ## System
 <ul>
-<li>Get the current path: `pwd`<li>
+<li>Get the current path: `pwd`</li>
 
-<li>Copy to clipboard: `pwd | pbcopy`<li>
+<li>Copy to clipboard: `pwd | pbcopy`</li>
 
-<li>Paste: `pbpaste`<li>
+<li>Paste: `pbpaste`</li>
 
-<li>Get the current hostname: `hostname`<li>
+<li>Get the current hostname: `hostname`</li>
 
-<li>Get the current users: `users`<li>
+<li>Get the current users: `users`</li>
 
-<li>Get all info about the environment: `env`<li>
+<li>Get all info about the environment: `env`</li>
 
-<li>Show calendar: `cal`<li>
+<li>Show calendar: `cal`</li>
 
-<li>Show today's date: `date`<li>
+<li>Show today's date: `date`</li>
 
-<li>Exit terminal: `exit`<li>
+<li>Exit terminal: `exit`</li>
 </ul>
 
 ## Permissions
+
 Use `-R` option to change permissions recursively.
 
 List: `ps -ef | grep apache | grep -v grep`
